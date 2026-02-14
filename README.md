@@ -2,7 +2,7 @@
 
 # Hyperparameter Tuning using GridSearchCV — Internship Task 16
 
-## 📌 Project Title
+##  Project Title
 
 Hyperparameter Tuning and Model Optimization using GridSearchCV (Scikit-learn)
 
@@ -25,7 +25,7 @@ The objective of this task is to perform hyperparameter tuning on machine learni
 
 ---
 
-## 📂 Dataset Used
+##  Dataset Used
 
 **Breast Cancer Dataset** from Scikit-learn built-in datasets.
 
@@ -35,7 +35,7 @@ The objective of this task is to perform hyperparameter tuning on machine learni
 
 ---
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 * Python
 * Scikit-learn
@@ -47,7 +47,7 @@ The objective of this task is to perform hyperparameter tuning on machine learni
 
 ---
 
-## 🔬 Models Used
+## Models Used
 
 Two models were trained and tuned:
 
@@ -177,3 +177,14 @@ This repository contains:
 Hyperparameter tuning using GridSearchCV significantly improves model performance compared to default settings. Cross-validation ensures reliable parameter selection and prevents overfitting. This task demonstrates practical model optimization workflow used in real ML projects.
 
 ---
+
+##outputs:
+<img width="1749" height="342" alt="Image" src="https://github.com/user-attachments/assets/f197cdb8-b794-4b49-9639-2dd80221b272" />
+
+<img width="234" height="91" alt="Image" src="https://github.com/user-attachments/assets/ea1a6651-c1fa-49d1-ac1a-a479bce05505" />
+
+<img width="948" height="135" alt="Image" src="https://github.com/user-attachments/assets/378d326c-7b84-4ae8-b89e-acff8f0a5731" />
+
+<img width="400" height="212" alt="Image" src="https://github.com/user-attachments/assets/8cc77334-d7a9-43be-83c6-250dac5d4b0d" />
+
+<img width="647" height="284" alt="Image" src="https://github.com/user-attachments/assets/94c2e281-5e8b-40fb-a94b-224c68f5a112" />
